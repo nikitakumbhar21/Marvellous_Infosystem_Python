@@ -1,4 +1,4 @@
-# Write a program which returns True if divisible by 5
+# Write lambda function which returns True if divisible by 5
 
 DivBy = lambda a : True if a % 5 == 0 else False
 

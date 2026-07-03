@@ -1,4 +1,4 @@
-# Write a program to return addition of two numbers
+# Write lambda function to return addition of two numbers
 
 Addition = lambda a,b : a + b
 

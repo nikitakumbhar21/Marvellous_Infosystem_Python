@@ -1,4 +1,4 @@
-# Write a program to return True if number is Odd otherwise False
+# Write lambda function to return True if number is Odd otherwise False
 
 CheckOdd = lambda No : True if No % 2 != 0 else False
 

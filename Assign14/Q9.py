@@ -1,4 +1,4 @@
-# Write a program to return multiplication of two numbers
+# Write lambda function to return multiplication of two numbers
 
 Mult = lambda a,b : a * b
 

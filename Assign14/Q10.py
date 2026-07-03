@@ -1,4 +1,4 @@
-# Write a program which accpets three numbers and return lrgest numbers
+# Write lambda function which accpets three numbers and return lrgest numbers
 
 LargestNum = lambda a,b,c : a if a >= b and a >= c else (b if b >= c  else c)
 

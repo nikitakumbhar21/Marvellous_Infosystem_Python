@@ -1,4 +1,4 @@
-# Write a program to return minimum of number
+# Write lambda function to return minimum of number
 
 MinNum = lambda a,b : a if a < b else b
 
