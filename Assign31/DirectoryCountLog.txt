@@ -1,0 +1,60 @@
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign15
+Number of Files: 10
+Date and time: 28-07-2026 05:52:06 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign15
+Number of Files: 10
+Date and time: 28-07-2026 05:58:39 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign15
+Number of Files: 10
+Date and time: 28-07-2026 06:07:38 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign15
+Number of Files: 10
+Date and time: 28-07-2026 06:12:38 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 06:38:55 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 06:43:55 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 06:48:55 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 06:53:55 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 06:58:56 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 07:03:56 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 07:08:56 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 07:13:56 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 07:18:57 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 07:23:57 PM
+----------------------------------------
+Directory path: C:\Users\Anand\Desktop\Python\Marvellous_Infosystem_Python\Assign9
+Number of Files: 5
+Date and time: 30-07-2026 07:28:57 PM
+----------------------------------------

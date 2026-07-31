@@ -1,0 +1,50 @@
+
+------Copy Opeartion started: 31-07-2026 17:45:24 ----
+FAILED: Could not copy DirectoryCountLog.txt. Error: '_io.TextIOWrapper' object has no attribute 'wri'
+FAILED: Could not copy MarvellousLog_28_07_2026_00_10_16.txt. Error: '_io.TextIOWrapper' object has no attribute 'wri'
+FAILED: Could not copy MarvellousLog_28_07_2026_01_02_37.txt. Error: '_io.TextIOWrapper' object has no attribute 'wri'
+FAILED: Could not copy MarvellousLog_28_07_2026_17_38_01.txt. Error: '_io.TextIOWrapper' object has no attribute 'wri'
+FAILED: Could not copy MarvellousLog_28_07_2026_17_48_02.txt. Error: '_io.TextIOWrapper' object has no attribute 'wri'
+
+------Copy Opeartion started: 31-07-2026 17:46:10 ----
+FAILED: Could not copy CopyDemo.txt. Error: '_io.TextIOWrapper' object has no attribute 'wri'
+FAILED: Could not copy Demo.txt. Error: '_io.TextIOWrapper' object has no attribute 'wri'
+
+------Copy Opeartion started: 31-07-2026 17:47:24 ----
+SUCCESS: Copied CopyOperationsLog.txt
+SUCCESS: Copied DirectoryCountLog.txt
+SUCCESS: Copied FileSizeLog.txt
+SUCCESS: Copied File_31_07_2026_16_47_18.txt
+SUCCESS: Copied File_31_07_2026_16_48_18.txt
+SUCCESS: Copied File_31_07_2026_16_49_18.txt
+SUCCESS: Copied File_31_07_2026_16_51_12.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_00_10_16.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_01_02_37.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_17_38_01.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_17_48_02.txt
+
+------Copy Opeartion started: 31-07-2026 17:57:24 ----
+SUCCESS: Copied CopyOperationsLog.txt
+SUCCESS: Copied DirectoryCountLog.txt
+SUCCESS: Copied FileSizeLog.txt
+SUCCESS: Copied File_31_07_2026_16_47_18.txt
+SUCCESS: Copied File_31_07_2026_16_48_18.txt
+SUCCESS: Copied File_31_07_2026_16_49_18.txt
+SUCCESS: Copied File_31_07_2026_16_51_12.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_00_10_16.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_01_02_37.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_17_38_01.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_17_48_02.txt
+
+------Copy Opeartion started: 31-07-2026 18:07:24 ----
+SUCCESS: Copied CopyOperationsLog.txt
+SUCCESS: Copied DirectoryCountLog.txt
+SUCCESS: Copied FileSizeLog.txt
+SUCCESS: Copied File_31_07_2026_16_47_18.txt
+SUCCESS: Copied File_31_07_2026_16_48_18.txt
+SUCCESS: Copied File_31_07_2026_16_49_18.txt
+SUCCESS: Copied File_31_07_2026_16_51_12.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_00_10_16.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_01_02_37.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_17_38_01.txt
+SUCCESS: Copied MarvellousLog_28_07_2026_17_48_02.txt
