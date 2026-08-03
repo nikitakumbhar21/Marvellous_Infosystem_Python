@@ -1,0 +1,1250 @@
+
+===============================================
+Process Information Log
+Generated on Mon Aug  3 17:00:55 2026
+
+===============================================
+Process name: System Idle Process
+PID: 0
+User: NT AUTHORITY\SYSTEM
+------------------------------------------
+Process name: System
+PID: 4
+User: NT AUTHORITY\SYSTEM
+------------------------------------------
+Process name: 
+PID: 116
+User: None
+------------------------------------------
+Process name: Registry
+PID: 160
+User: None
+------------------------------------------
+Process name: winlogon.exe
+PID: 384
+User: None
+------------------------------------------
+Process name: smss.exe
+PID: 528
+User: None
+------------------------------------------
+Process name: LsaIso.exe
+PID: 556
+User: None
+------------------------------------------
+Process name: services.exe
+PID: 668
+User: None
+------------------------------------------
+Process name: csrss.exe
+PID: 872
+User: None
+------------------------------------------
+Process name: wlanext.exe
+PID: 876
+User: None
+------------------------------------------
+Process name: wininit.exe
+PID: 956
+User: None
+------------------------------------------
+Process name: csrss.exe
+PID: 964
+User: None
+------------------------------------------
+Process name: promecefpluginhost.exe
+PID: 972
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: UserOOBEBroker.exe
+PID: 984
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: lsass.exe
+PID: 1028
+User: None
+------------------------------------------
+Process name: IntelCpHDCPSvc.exe
+PID: 1052
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1180
+User: None
+------------------------------------------
+Process name: WUDFHost.exe
+PID: 1200
+User: None
+------------------------------------------
+Process name: fontdrvhost.exe
+PID: 1232
+User: None
+------------------------------------------
+Process name: fontdrvhost.exe
+PID: 1236
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1336
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1396
+User: None
+------------------------------------------
+Process name: WUDFHost.exe
+PID: 1464
+User: None
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 1504
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: dwm.exe
+PID: 1520
+User: None
+------------------------------------------
+Process name: AdobeCollabSync.exe
+PID: 1556
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 1608
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1668
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1676
+User: None
+------------------------------------------
+Process name: chrome.exe
+PID: 1688
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 1692
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 1704
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1720
+User: None
+------------------------------------------
+Process name: chrome.exe
+PID: 1732
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 1772
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 1816
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1824
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1844
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1884
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1896
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1920
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 1944
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 2068
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 2140
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 2192
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 2352
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 2420
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 2516
+User: None
+------------------------------------------
+Process name: MemCompression
+PID: 2620
+User: None
+------------------------------------------
+Process name: CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.exe
+PID: 2632
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 2660
+User: None
+------------------------------------------
+Process name: chrome.exe
+PID: 2780
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: dasHost.exe
+PID: 2800
+User: None
+------------------------------------------
+Process name: Code.exe
+PID: 2880
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 2896
+User: None
+------------------------------------------
+Process name: SecurityHealthSystray.exe
+PID: 2960
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 2964
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 2972
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 2980
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3040
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3112
+User: None
+------------------------------------------
+Process name: uihost.exe
+PID: 3168
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: IntelAudioService.exe
+PID: 3172
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3180
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3188
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3344
+User: None
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 3364
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 3384
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3456
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3472
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3568
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3600
+User: None
+------------------------------------------
+Process name: chrome.exe
+PID: 3612
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: spoolsv.exe
+PID: 3680
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3752
+User: None
+------------------------------------------
+Process name: elevation_service.exe
+PID: 3772
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3820
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3872
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3936
+User: None
+------------------------------------------
+Process name: ms-teams.exe
+PID: 3944
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 3948
+User: None
+------------------------------------------
+Process name: armsvc.exe
+PID: 3956
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3964
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 3972
+User: None
+------------------------------------------
+Process name: OfficeClickToRun.exe
+PID: 3980
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 4020
+User: None
+------------------------------------------
+Process name: ipfsvc.exe
+PID: 4024
+User: None
+------------------------------------------
+Process name: Code.exe
+PID: 4048
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 4128
+User: None
+------------------------------------------
+Process name: ipf_uf.exe
+PID: 4140
+User: None
+------------------------------------------
+Process name: jhi_service.exe
+PID: 4152
+User: None
+------------------------------------------
+Process name: mc-fw-host.exe
+PID: 4176
+User: None
+------------------------------------------
+Process name: WindowsTerminal.exe
+PID: 4188
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: servicehost.exe
+PID: 4208
+User: None
+------------------------------------------
+Process name: RtkAudUService64.exe
+PID: 4328
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 4340
+User: None
+------------------------------------------
+Process name: wps.exe
+PID: 4372
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 4380
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 4388
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 4396
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 4420
+User: None
+------------------------------------------
+Process name: WMIRegistrationService.exe
+PID: 4440
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 4456
+User: None
+------------------------------------------
+Process name: Code.exe
+PID: 4868
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 5244
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Code.exe
+PID: 5508
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Code.exe
+PID: 6444
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 6472
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 6768
+User: None
+------------------------------------------
+Process name: wps.exe
+PID: 6912
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: chrome.exe
+PID: 6932
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 6996
+User: None
+------------------------------------------
+Process name: browserhost.exe
+PID: 7124
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 7204
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 7224
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: AggregatorHost.exe
+PID: 7252
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 7264
+User: None
+------------------------------------------
+Process name: WmiPrvSE.exe
+PID: 7440
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 7460
+User: None
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 7508
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: mscopilot.exe
+PID: 7564
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: mc-fw-host.exe
+PID: 7580
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: ctfmon.exe
+PID: 7600
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 7620
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 7664
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 7800
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 7864
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Intel_PIE_Service.exe
+PID: 7888
+User: None
+------------------------------------------
+Process name: chrome.exe
+PID: 8136
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 8180
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 8196
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: sihost.exe
+PID: 8508
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: ipf_helper.exe
+PID: 8548
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 8600
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: taskhostw.exe
+PID: 8744
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 8752
+User: None
+------------------------------------------
+Process name: mscopilot.exe
+PID: 9008
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: elevation_service.exe
+PID: 9080
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 9096
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Code.exe
+PID: 9220
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 9236
+User: None
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 9352
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 9432
+User: None
+------------------------------------------
+Process name: chrome.exe
+PID: 9676
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 9708
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: chrome.exe
+PID: 9964
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: explorer.exe
+PID: 10020
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedge.exe
+PID: 10104
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: mscopilot.exe
+PID: 10164
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: CrossDeviceResume.exe
+PID: 10172
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 10204
+User: None
+------------------------------------------
+Process name: SecurityHealthService.exe
+PID: 10452
+User: None
+------------------------------------------
+Process name: mscopilot.exe
+PID: 10640
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: conhost.exe
+PID: 10656
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: ApplicationFrameHost.exe
+PID: 10692
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Code.exe
+PID: 10744
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 10808
+User: None
+------------------------------------------
+Process name: wps.exe
+PID: 10900
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 10944
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 10964
+User: None
+------------------------------------------
+Process name: CrossDeviceService.exe
+PID: 11648
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: PushNotificationsLongRunningTask.exe
+PID: 11752
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: chrome.exe
+PID: 11812
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: wps.exe
+PID: 11944
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 12056
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Code.exe
+PID: 12080
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: mscopilot.exe
+PID: 12156
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Code.exe
+PID: 12260
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: dllhost.exe
+PID: 12304
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: SearchHost.exe
+PID: 12372
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: StartMenuExperienceHost.exe
+PID: 12380
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: TextInputHost.exe
+PID: 12416
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: mscopilot_proxy.exe
+PID: 12444
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 12640
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Widgets.exe
+PID: 12684
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 12732
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Code.exe
+PID: 12812
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: chrome.exe
+PID: 12816
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: taskhostw.exe
+PID: 12868
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: pet.exe
+PID: 13020
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 13044
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: WidgetService.exe
+PID: 13092
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 13104
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 13144
+User: None
+------------------------------------------
+Process name: msedge.exe
+PID: 13148
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 13228
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 13304
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 13660
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 13664
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: mscopilot.exe
+PID: 13744
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 13908
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 13916
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 14004
+User: None
+------------------------------------------
+Process name: WhatsApp.Root.exe
+PID: 14320
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: powershell.exe
+PID: 14324
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: OpenConsole.exe
+PID: 14352
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Code.exe
+PID: 14516
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedge.exe
+PID: 14632
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: OpenConsole.exe
+PID: 14820
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: chrome.exe
+PID: 14876
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: PhoneExperienceHost.exe
+PID: 14908
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 14948
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: Code.exe
+PID: 15136
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 15284
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: dllhost.exe
+PID: 15468
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 15520
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: dllhost.exe
+PID: 15620
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: RtkAudUService64.exe
+PID: 15820
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 15864
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 16004
+User: None
+------------------------------------------
+Process name: CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.tmp
+PID: 16060
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 16068
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 16284
+User: None
+------------------------------------------
+Process name: chrome.exe
+PID: 16484
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 16516
+User: None
+------------------------------------------
+Process name: wps.exe
+PID: 16652
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 16880
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: OneDrive.exe
+PID: 16976
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: wps.exe
+PID: 17092
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 17160
+User: None
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 17332
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: ms-teams.exe
+PID: 17668
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: LockApp.exe
+PID: 17684
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: FileCoAuth.exe
+PID: 17744
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: SystemSettings.exe
+PID: 17792
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: cmd.exe
+PID: 17820
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: JSRtMon2.exe
+PID: 17864
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: mscopilot.exe
+PID: 17952
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 18000
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 18068
+User: None
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 18168
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 18200
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 18224
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 18284
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedge.exe
+PID: 18336
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: mscopilot.exe
+PID: 18364
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: chrome.exe
+PID: 18408
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: wpscloudsvr.exe
+PID: 18492
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: AdobeCollabSync.exe
+PID: 18776
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: chrome.exe
+PID: 19068
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 19124
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: OneDrive.Sync.Service.exe
+PID: 19152
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: chrome.exe
+PID: 19296
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 19560
+User: None
+------------------------------------------
+Process name: cmd.exe
+PID: 19740
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: wps.exe
+PID: 20068
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: mscopilot.exe
+PID: 20316
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: promecefpluginhost.exe
+PID: 20444
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 20588
+User: None
+------------------------------------------
+Process name: dllhost.exe
+PID: 20988
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: mc-extn-browserhost.exe
+PID: 20996
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: ShellExperienceHost.exe
+PID: 21048
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 21148
+User: None
+------------------------------------------
+Process name: wps.exe
+PID: 21172
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 21276
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: wps.exe
+PID: 21476
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 21600
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 21820
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 21940
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: conhost.exe
+PID: 21980
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 22052
+User: None
+------------------------------------------
+Process name: SnippingTool.exe
+PID: 22284
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: python.exe
+PID: 22372
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 22392
+User: None
+------------------------------------------
+Process name: mc-neo-host.exe
+PID: 22456
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 22628
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 22932
+User: None
+------------------------------------------
+Process name: ShellHost.exe
+PID: 23016
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: SoftLandingTask.exe
+PID: 23184
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 23384
+User: None
+------------------------------------------
+Process name: msedge.exe
+PID: 23536
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: python.exe
+PID: 23616
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedge.exe
+PID: 23888
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedge.exe
+PID: 23976
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: OpenConsole.exe
+PID: 24048
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: EXCEL.EXE
+PID: 24080
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 24232
+User: None
+------------------------------------------
+Process name: wps.exe
+PID: 24256
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 24284
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 24484
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 24628
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: conhost.exe
+PID: 24808
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: splwow64.exe
+PID: 24824
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 24928
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 24936
+User: None
+------------------------------------------
+Process name: conhost.exe
+PID: 25020
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedge.exe
+PID: 25224
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedge.exe
+PID: 25324
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 25812
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: powershell.exe
+PID: 25900
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: dllhost.exe
+PID: 26036
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: python.exe
+PID: 26088
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: M365Copilot.exe
+PID: 26332
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: OpenConsole.exe
+PID: 26348
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 26520
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 26664
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedge.exe
+PID: 26824
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: cmd.exe
+PID: 26920
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 27024
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: cmd.exe
+PID: 27040
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedge.exe
+PID: 27332
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: chrome.exe
+PID: 27536
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 27872
+User: None
+------------------------------------------
+Process name: CapturePicker.exe
+PID: 28064
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: msedgewebview2.exe
+PID: 28180
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: svchost.exe
+PID: 28748
+User: None
+------------------------------------------
+Process name: svchost.exe
+PID: 29020
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: SearchIndexer.exe
+PID: 29084
+User: None
+------------------------------------------
+Process name: msedge.exe
+PID: 29172
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
+Process name: NgcIso.exe
+PID: 29476
+User: None
+------------------------------------------
+Process name: RuntimeBroker.exe
+PID: 29584
+User: DESKTOP-Q6VNT7A\Anand
+------------------------------------------
