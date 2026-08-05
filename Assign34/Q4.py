@@ -23,7 +23,7 @@ def validate_email(email):
     pattern = r'[a-zA-Z0-9._%+-] + @[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
     return re.match(pattern,email)
 
-#Log file creation
+# Log file creation
 def create_log_fle(dir_name):
     # create directory if it's not exists.
         if not os.path.exists(dir_name):
