@@ -15,7 +15,7 @@ import psutil
 
 # Configuration for  mail server
 sender_email = "kumbharniki21.nk@gmail.com"
-sender_password = "anikAnand#p00" 
+sender_password = "rltgypdbqrkeyapx" 
 
 # Email validation
 def validate_email(email):
