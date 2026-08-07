@@ -20,25 +20,25 @@ import time
 # Calculating checksum,
 # Identifying/ deleteing duplicate files
 ##############################################
+def log_func(message):
+    print(message)
 
 def CalculateChecksum(FileName):
-    fobj = open(FileName,"rb")
-
-    hobj = hashlib.md5()
-
-    Buffer = fobj.read(1024)
-
-    while(len(Buffer) > 0):
-        hobj.update(Buffer)
+    try:
+        fobj = open(FileName,"rb")
+        hobj = hashlib.md5()
         Buffer = fobj.read(1024)
-
-    fobj.close()
-
-    return hobj.hexdigest()
+        while(len(Buffer) > 0):
+            hobj.update(Buffer)
+            Buffer = fobj.read(1024)
+        fobj.close()
+        return hobj.hexdigest()
+    except Exception as e:
+        log_func(f"Error reading file {FileName}: {str(e)}")
+        return None
 
 def FindDuplicate(DirectoryName):
     Ret = False
-
     Ret = os.path.exists(DirectoryName)
     
     if Ret == False:
@@ -51,9 +51,10 @@ def FindDuplicate(DirectoryName):
         print("It is not a Directory")
         return
     
-    Duplicate = {}
+    deleted_file_info = {}
     total_scanned = 0
     duplicate_found = 0
+    duplicate_deleted = 0
 
     for FolderName, SubFolder, FileName in os.walk(DirectoryName):
         for fname in FileName:
@@ -69,47 +70,33 @@ def FindDuplicate(DirectoryName):
 
             Checksum = CalculateChecksum(fname)
             if Checksum is None:
-                print(F"Error: Could not read file content for checksum - {fname}")
+                log_func(F"Error: Could not read file content for checksum - {fname}")
+                continue
 
             total_scanned = total_scanned + 1
 
-            if Checksum in Duplicate:   # if balckShirt in Kapat"
+            if Checksum in deleted_file_info:   # if balckShirt in Kapat"
                 duplicate_found = duplicate_found + 1
                 # Attempt to delete duplicate file
                 if os.access(fname, os.W_OK):
                     try:
-                        filename = DeleteDuplicate(DirectoryName)
-                        Duplicate[Checksum].append(filename)
+                        os.remove(fname)
+                        log_func(f"Deleted duplicate file: {fname}")
+                        duplicate_deleted = duplicate_deleted + 1
+                        deleted_file_info[Checksum].append(fname)
                     except Exception as e:
-                        print(f"Error: Failed to delete file {fname}: {str(e)}")
+                        log_func(f"Error: Failed to delete file {fname}: {str(e)}")
                 else:
-                    print(f"Error: Permission denied (Delete) - {fname}")
+                    log_func(f"Error: Permission denied (Delete) - {fname}")
             else:
-                Duplicate[Checksum] = [fname]
+                deleted_file_info[Checksum] = [fname]
 
     return { 
         "total_scanned" : total_scanned,
         "duplicate_found" : duplicate_found,
-        "deleted_file_info": Duplicate
+        "duplicate_deleted" : duplicate_deleted,
+        "deleted_file_info": deleted_file_info
     }
-
-def DeleteDuplicate(DirectoryName):
-    MyDict = FindDuplicate(DirectoryName)
-
-    Result = list(filter(lambda x : len(x) > 1, MyDict.values()))
-
-    Count = 0
-    TotalDeleted = 0
-
-    for value in Result:
-        for subvalue in value:
-            Count = Count + 1
-            if(Count > 1):
-                os.remove(subvalue)
-                TotalDeleted = TotalDeleted + 1
-        Count = 0
-
-    print("Total Deleted Files: ", TotalDeleted)
 
 #####################################################
 # Handle directory creation and detialed file logging
@@ -124,7 +111,7 @@ def create_log_directory(dir_name="Marvellous"):
 def generate_log_filepath(log_dir="Marvellous"):
     # Generate log file path formatted as DupliateRemovalLog_DD_MM_YYYY_HH_MM_SS.log
     now = datetime.now()
-    filename = f"DupliateRemovalLog_{now.strftime("%d_%m_%Y_%H_%M_%S")}.log"
+    filename = f"DupliateRemovalLog_{now.strftime('%d_%m_%Y_%H_%M_%S')}.log"
     return os.path.join(log_dir, filename)
 
 class Logger:
@@ -142,7 +129,7 @@ class Logger:
 
 # Default configuration - standard recommendation is using environment variables
 sender_email = os.environ.get("Sender_email", "kumbharniki21.nk@gmail.com")
-sender_password = os.environ.get("Sender_password", "anikAnand#p00")
+sender_password = os.environ.get("Sender_password", "rltgypdbqrkeyapx")
 
 def send_npotification_email(receiver_email, stats, log_filepath):
     # send execution statistics and attaches the generated log file.
@@ -190,6 +177,8 @@ Marvellous Automation system
         server.sendmail(sender_email,receiver_email,text)
         server.quit()
         return True, "Email sent successfully."
+
+        attachement.close()
     except Exception as e:
         return False, str(e)
 
@@ -215,8 +204,12 @@ def display_usage():
 
 def validate_email(email):
     # Validate email address format
-    pattern = r'[a-zA-Z0-9._%+-] + @[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+    pattern = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
     return re.match(pattern,email)
+
+#####################################################
+# Main Operation
+#####################################################
 
 def perform_operation(dir_path, receiver_email):
     log_dir = create_log_directory("Marvellous")
@@ -234,6 +227,8 @@ def perform_operation(dir_path, receiver_email):
 
     # Perform cleaning operation
     results = FindDuplicate(dir_path)
+    if not results:
+        return
 
     end_time_str = datetime.now().strftime('%d %B %Y, %I:%M:%S %p')
 
@@ -241,9 +236,13 @@ def perform_operation(dir_path, receiver_email):
     logger.write_line("=" * 40)
     logger.write_line("DELETED DUPLICATE FILES: ")
     logger.write_line("=" * 40)
-    if results["Duplicate"]:
-        for file_path, checksum in results["Duplicate"]:
-            logger.write_line(f"Path: {file_path} | Checksum: {checksum}")
+    deleted_info = results.get("deleted_file_info", {})
+    duplicates = [files for checksum, files in deleted_info.items() if len(files) > 1]
+
+    if duplicates:
+        for files in duplicates:
+            for file_path in files[1:]:
+                logger.write_line(f"Path: {file_path}")
     else:
         logger.write_line("No duplicate files deleted")
 
